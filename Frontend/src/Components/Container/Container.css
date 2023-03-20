@@ -1,0 +1,11 @@
+
+.bg{
+  background-image: url("../../assets/img/background-docassist.jpg");
+  background-size: cover;
+
+
+  background-repeat: no-repeat;
+  display: flex;
+  min-height: 100vh;
+  margin-left: 38vh;
+}
